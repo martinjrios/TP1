@@ -1,0 +1,2 @@
+path=./cotizaciones.csv
+refresh_time=30
